@@ -3,7 +3,7 @@
 
 Hook App es una aplicación desarrollada con el framework Vite. Está construida con React y sus dependencias.
 
-Es un proyecto para experimentar con react
+Es un proyecto para probar el funcionamiento de los hooks en react
 
 
 ## Instalación
