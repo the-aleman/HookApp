@@ -1,5 +1,4 @@
-import { useEffect } from "react"
-import { useForm } from "../hooks/useForm.JS";
+import { useForm } from "../hooks/useForm.js";
 
 export const FormWithCustomHook = () => {
 
